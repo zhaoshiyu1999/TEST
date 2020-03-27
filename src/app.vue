@@ -37,6 +37,7 @@
 
 .app-container{
     padding-top: 40px;
+	padding-bottom: 50px;
 	overflow-x: hidden;
 }
 header{
